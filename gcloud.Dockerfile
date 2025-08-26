@@ -23,4 +23,4 @@ USER 1001
 
 # Add gcloud to PATH for the delegate user
 ENV PATH="/opt/google-cloud-sdk/bin:$PATH"
-~                                                                                                                                                                                                
+                                                                                                                                                                                        
